@@ -1,7 +1,9 @@
-package sg.edu.nus.com.darranle.pitch;
+package sg.edu.nus.com.darranle.pitch.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import sg.edu.nus.com.darranle.pitch.R;
 
 public class MainActivity extends AppCompatActivity {
 
